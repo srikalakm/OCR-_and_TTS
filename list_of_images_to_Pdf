@@ -1,3 +1,5 @@
+import img2pdf
+import os
 dirname = r"C:\Users\Srikala\Desktop\images"
 with open(r"C:\Users\Srikala\Desktop\test.pdf","wb") as f:
     imgs = []
